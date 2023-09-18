@@ -1,0 +1,1 @@
+# Деплой маленького облака с Docker Swarm и Hashicorp Nomad
